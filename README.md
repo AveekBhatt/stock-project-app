@@ -3,6 +3,8 @@ This is a Stock project App
 
 
 SUPABASE_URL = https://zqynnwqjahohjjfdzumj.supabase.co
+
+
 SUPABASE_KEY = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpxeW5ud3FqYWhvaGpqZmR6dW1qIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTc5MTcxMTIsImV4cCI6MjA3MzQ5MzExMn0.5fzshkMsQRpLpMu74upg3GgSHzNiY1lX2YZm9ahuCZc
 
 
